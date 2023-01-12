@@ -1,0 +1,4 @@
+﻿enemyType      enemyPixmap     OrignalHealth    speed    
+1                    Penguin_barry.gif         1000              1.0
+2                    Skeleton_warrior.gif      1800              0.75
+3                    Fiery_dragon.gif          750               1.3

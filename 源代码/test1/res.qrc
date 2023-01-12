@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/map.jpg</file>
+        <file>image/continue.jpg</file>
+        <file>image/pause.jpg</file>
+        <file>button_position.txt</file>
+        <file>image/towerIndex.jpg</file>
+        <file>image/magicTower.png</file>
+        <file>image/magicTower_2.png</file>
+        <file>image/cannonTower.png</file>
+        <file>image/ExplosionEffect1.png</file>
+        <file>image/ExplosionEffect2.png</file>
+        <file>image/ExplosionEffect3.png</file>
+        <file>image/ExplosionEffect4.png</file>
+        <file>image/ExplosionEffect5.png</file>
+        <file>image/ExplosionEffect6.png</file>
+        <file>image/ExplosionEffect7.png</file>
+        <file>image/MagicEffect1.png</file>
+        <file>image/MagicEffect2.png</file>
+        <file>image/MagicEffect3.png</file>
+        <file>image/MagicEffect4.png</file>
+        <file>image/MagicEffect5.png</file>
+        <file>Path.txt</file>
+        <file>image/cannonTower_2.png</file>
+        <file>image/home.png</file>
+        <file>image/upgrade.png</file>
+        <file>image/startPicture.png</file>
+        <file>image/gameIcon.ico</file>
+        <file>image/icon.ico</file>
+        <file>image/settings.ico</file>
+        <file>sound/Molly.mp3</file>
+        <file>sound/Katyusha.mp3</file>
+        <file>image/Fiery_dragon.gif</file>
+        <file>image/Penguin_barry.gif</file>
+        <file>image/Skeleton_warrior.gif</file>
+        <file>enemyTrend_form.xlsx</file>
+        <file>image/defeated1.png</file>
+        <file>image/win1.png</file>
+    </qresource>
+</RCC>
